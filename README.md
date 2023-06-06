@@ -1,3 +1,12 @@
+# Note
+This is the public edition of the Ytterbium Clock Labs Control system. It has the most recent changes removed for privacy reasons. Some interesting features: 
+
+* RFRabiCoil Class: Automatically simulates the atomic spins given experimental commands. Keeps track of the atoms with parameters guaranteed to follow reality!
+* Laser Class: A unified way to control lasers. Calibrate once, and all lasers will have the identical response!
+* ExperimentalCavity Class: Treat the experimental cavity the way a physicist does, as one object you can `.scan` across.
+
+This repository is here to showcase my work.
+# Intro
 Welcome to Ybclock Labscript Edition!
 
 See the Feature List for what we've built and what you can do. Make sure you
