@@ -1,0 +1,13 @@
+2022-02-02 10:20:46,260 mloop                INFO     M-LOOP version 3.2.1
+2022-02-02 10:20:46,260 mloop                DEBUG    M-LOOP Logger configured.
+2022-02-02 10:20:46,260 mloop.interfaces     DEBUG    Creating interface.
+2022-02-02 10:20:46,260 mloop.controllers    DEBUG    Controller init completed.
+2022-02-02 10:20:46,260 mloop.learners.1     DEBUG    Learner init completed.
+2022-02-02 10:20:46,260 mloop.learners.2     DEBUG    Learner init completed.
+2022-02-02 10:20:46,301 mloop.controllers    INFO     Optimization started.
+2022-02-02 10:20:46,301 mloop.interfaces     DEBUG    Entering main loop of interface.
+2022-02-02 10:20:46,301 mloop.controllers    DEBUG    ML learner started.
+2022-02-02 10:20:46,431 mloop.controllers    DEBUG    Starting training optimization.
+2022-02-02 10:20:46,431 mloop.controllers    INFO     Run:1 (training)
+2022-02-02 10:20:46,431 mloop.controllers    INFO     params [ 5.040e+01  5.032e+01  5.100e+00  5.000e-01 -8.000e-01 -2.000e-02
+ -1.860e+00]

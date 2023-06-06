@@ -1,0 +1,27 @@
+2022-02-02 10:28:36,095 mloop                INFO     M-LOOP version 3.2.1
+2022-02-02 10:28:36,096 mloop                DEBUG    M-LOOP Logger configured.
+2022-02-02 10:28:36,096 mloop.interfaces     DEBUG    Creating interface.
+2022-02-02 10:28:36,099 mloop.controllers    DEBUG    Controller init completed.
+2022-02-02 10:28:36,101 mloop.learners.1     DEBUG    Learner init completed.
+2022-02-02 10:28:36,102 mloop.learners.2     DEBUG    Learner init completed.
+2022-02-02 10:28:36,124 mloop.controllers    INFO     Optimization started.
+2022-02-02 10:28:36,127 mloop.interfaces     DEBUG    Entering main loop of interface.
+2022-02-02 10:28:36,127 mloop.controllers    DEBUG    ML learner started.
+2022-02-02 10:28:36,242 mloop.controllers    DEBUG    Starting training optimization.
+2022-02-02 10:28:36,243 mloop.controllers    INFO     Run:1 (training)
+2022-02-02 10:28:36,245 mloop.controllers    INFO     params [ 5.040e+01  5.032e+01  5.100e+00  5.000e-01 -8.000e-01 -2.000e-02
+ -1.860e+00]
+2022-02-02 10:28:51,501 mloop.controllers    INFO     cost -0.0 +/- 0.0
+2022-02-02 10:28:51,502 mloop.controllers    INFO     Run:2 (training)
+2022-02-02 10:28:51,504 mloop.controllers    INFO     params [50.43644715 50.30266289  5.11325957 -0.49272356 -1.23322951 -0.69886029
+ -0.43049431]
+2022-02-02 10:29:19,202 mloop.controllers    INFO     cost -0.0 +/- 0.0
+2022-02-02 10:29:19,202 mloop.controllers    INFO     Run:3 (training)
+2022-02-02 10:29:19,205 mloop.controllers    INFO     params [50.37826045 50.52602913  5.00080463  0.96727219 -0.18642761  0.10231809
+ -1.05495925]
+2022-02-02 10:29:30,665 mloop.controllers    INFO     cost -0.0 +/- 0.0
+2022-02-02 10:29:30,666 mloop.controllers    INFO     Run:4 (training)
+2022-02-02 10:29:30,668 mloop.controllers    INFO     params [ 5.03186295e+01  5.03705092e+01  5.15749096e+00  6.08914617e-01
+ -3.19133420e-02 -1.59883025e-01 -2.29505259e+00]
+2022-02-02 10:30:01,500 mloop.controllers    WARNING  Controller ended due to exception of some kind. Starting shut down...
+2022-02-02 10:30:01,501 mloop.controllers    DEBUG    ML learner end set.

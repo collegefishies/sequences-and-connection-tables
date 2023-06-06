@@ -1,0 +1,7 @@
+2022-04-01 11:33:43,445 mloop                INFO     M-LOOP version 3.2.1
+2022-04-01 11:33:43,445 mloop                DEBUG    M-LOOP Logger configured.
+2022-04-01 11:33:43,445 mloop.interfaces     DEBUG    Creating interface.
+2022-04-01 11:33:43,447 mloop.controllers    DEBUG    Controller init completed.
+2022-04-01 11:33:43,448 mloop.learners.1     DEBUG    Learner init completed.
+2022-04-01 11:33:43,449 mloop.learners.1     ERROR    first_params is not in the boundary:array([50.0503, 50.011 ,  5.3185,  0.1155, -0.7996, 48.6388,  0.38  ,
+        0.1361,  0.3129])

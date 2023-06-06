@@ -1,0 +1,106 @@
+2022-01-24 14:28:14,769 mloop                INFO     M-LOOP version 3.2.1
+2022-01-24 14:28:14,769 mloop                DEBUG    M-LOOP Logger configured.
+2022-01-24 14:28:14,770 mloop.interfaces     DEBUG    Creating interface.
+2022-01-24 14:28:14,772 mloop.controllers    DEBUG    Controller init completed.
+2022-01-24 14:28:14,775 mloop.learners.1     DEBUG    Learner init completed.
+2022-01-24 14:28:14,777 mloop.learners.2     DEBUG    Learner init completed.
+2022-01-24 14:28:14,801 mloop.controllers    INFO     Optimization started.
+2022-01-24 14:28:14,802 mloop.interfaces     DEBUG    Entering main loop of interface.
+2022-01-24 14:28:14,803 mloop.controllers    DEBUG    ML learner started.
+2022-01-24 14:28:14,931 mloop.controllers    DEBUG    Starting training optimization.
+2022-01-24 14:28:14,932 mloop.controllers    INFO     Run:1 (training)
+2022-01-24 14:28:14,933 mloop.controllers    INFO     params [46.]
+2022-01-24 14:28:22,840 mloop.controllers    INFO     cost -1.3539026017344897 +/- 0.0
+2022-01-24 14:28:22,841 mloop.controllers    INFO     Run:2 (training)
+2022-01-24 14:28:22,843 mloop.controllers    INFO     params [49.24721278]
+2022-01-24 14:28:31,863 mloop.controllers    INFO     cost -1.2278511404561825 +/- 0.0
+2022-01-24 14:28:31,863 mloop.controllers    INFO     Run:3 (training)
+2022-01-24 14:28:31,864 mloop.controllers    INFO     params [44.72918254]
+2022-01-24 14:28:43,791 mloop.controllers    INFO     cost -1.1624062575598741 +/- 0.0
+2022-01-24 14:28:43,791 mloop.controllers    INFO     Run:4 (training)
+2022-01-24 14:28:43,792 mloop.controllers    INFO     params [44.5846846]
+2022-01-24 14:28:53,727 mloop.controllers    INFO     cost -1.2126667738305739 +/- 0.0
+2022-01-24 14:28:53,727 mloop.controllers    INFO     Run:5 (training)
+2022-01-24 14:28:53,729 mloop.controllers    INFO     params [49.7383785]
+2022-01-24 14:29:02,220 mloop.controllers    INFO     cost -1.1197021310306583 +/- 0.0
+2022-01-24 14:29:02,220 mloop.controllers    INFO     Run:6 (training)
+2022-01-24 14:29:02,222 mloop.controllers    INFO     params [44.94899315]
+2022-01-24 14:29:46,813 mloop.controllers    INFO     cost -1.2236403069736403 +/- 0.0
+2022-01-24 14:29:46,814 mloop.controllers    INFO     Run:7 (training)
+2022-01-24 14:29:46,815 mloop.controllers    INFO     params [43.35833142]
+2022-01-24 14:29:58,753 mloop.controllers    INFO     cost -1.169518272425249 +/- 0.0
+2022-01-24 14:29:58,753 mloop.controllers    INFO     Run:8 (training)
+2022-01-24 14:29:58,755 mloop.controllers    INFO     params [45.15812692]
+2022-01-24 14:30:16,646 mloop.controllers    INFO     cost -1.2868977176669485 +/- 0.0
+2022-01-24 14:30:16,646 mloop.controllers    INFO     Run:9 (training)
+2022-01-24 14:30:16,649 mloop.controllers    INFO     params [47.64813599]
+2022-01-24 14:30:28,448 mloop.controllers    INFO     cost -1.3464375523889354 +/- 0.0
+2022-01-24 14:30:28,448 mloop.controllers    INFO     Run:10 (training)
+2022-01-24 14:30:28,450 mloop.controllers    INFO     params [47.1729959]
+2022-01-24 14:30:42,445 mloop.controllers    INFO     cost -1.2792449837417716 +/- 0.0
+2022-01-24 14:30:42,446 mloop.controllers    INFO     Run:11 (training)
+2022-01-24 14:30:42,448 mloop.controllers    INFO     params [47.0892332]
+2022-01-24 14:30:52,201 mloop.controllers    INFO     cost -1.4055098269779942 +/- 0.0
+2022-01-24 14:30:52,202 mloop.controllers    INFO     Run:12 (training)
+2022-01-24 14:30:52,204 mloop.controllers    INFO     params [49.42918351]
+2022-01-24 14:31:01,739 mloop.controllers    INFO     cost -1.3760298989212605 +/- 0.0
+2022-01-24 14:31:01,739 mloop.controllers    INFO     Run:13 (training)
+2022-01-24 14:31:01,741 mloop.controllers    INFO     params [45.92600653]
+2022-01-24 14:31:13,474 mloop.controllers    INFO     cost -1.3114189756507137 +/- 0.0
+2022-01-24 14:31:13,474 mloop.controllers    INFO     Run:14 (training)
+2022-01-24 14:31:13,476 mloop.controllers    INFO     params [42.19362954]
+2022-01-24 14:31:22,943 mloop.controllers    INFO     cost -1.113769490966092 +/- 0.0
+2022-01-24 14:31:22,943 mloop.controllers    INFO     Run:15 (training)
+2022-01-24 14:31:22,945 mloop.controllers    INFO     params [46.74362321]
+2022-01-24 14:31:34,324 mloop.controllers    INFO     cost -1.2536827541303817 +/- 0.0
+2022-01-24 14:31:34,324 mloop.controllers    INFO     Run:16 (training)
+2022-01-24 14:31:34,326 mloop.controllers    INFO     params [44.06762703]
+2022-01-24 14:31:34,327 mloop.controllers    DEBUG    Starting ML optimization.
+2022-01-24 14:31:46,184 mloop.controllers    INFO     cost -1.182998530132288 +/- 0.0
+2022-01-24 14:31:46,190 mloop.controllers    DEBUG    End training runs.
+2022-01-24 14:31:46,190 mloop.controllers    INFO     Run:17 (machine learner)
+2022-01-24 14:31:46,339 mloop.controllers    INFO     params [47.20119289]
+2022-01-24 14:32:01,578 mloop.controllers    INFO     cost -1.3145359305942053 +/- 0.0
+2022-01-24 14:32:01,579 mloop.controllers    INFO     Run:18 (machine learner)
+2022-01-24 14:32:01,580 mloop.controllers    INFO     params [47.23842937]
+2022-01-24 14:32:15,075 mloop.controllers    INFO     cost -1.3679789580858646 +/- 0.0
+2022-01-24 14:32:15,075 mloop.controllers    INFO     Run:19 (machine learner)
+2022-01-24 14:32:15,076 mloop.controllers    INFO     params [47.27679405]
+2022-01-24 14:32:27,046 mloop.controllers    INFO     cost -1.3076668322569962 +/- 0.0
+2022-01-24 14:32:27,046 mloop.controllers    INFO     Run:20 (machine learner)
+2022-01-24 14:32:27,047 mloop.controllers    INFO     params [47.16524156]
+2022-01-24 14:32:36,575 mloop.controllers    INFO     cost -1.3400863500498172 +/- 0.0
+2022-01-24 14:32:36,576 mloop.controllers    INFO     Run:21 (trainer)
+2022-01-24 14:32:36,579 mloop.controllers    INFO     params [44.42167505]
+2022-01-24 14:32:48,782 mloop.controllers    INFO     cost -1.2152315157496505 +/- 0.0
+2022-01-24 14:32:48,783 mloop.controllers    INFO     Run:22 (machine learner)
+2022-01-24 14:32:48,784 mloop.controllers    INFO     params [47.18716282]
+2022-01-24 14:33:02,777 mloop.controllers    INFO     cost -1.2771668822768434 +/- 0.0
+2022-01-24 14:33:02,778 mloop.controllers    INFO     Run:23 (machine learner)
+2022-01-24 14:33:02,779 mloop.controllers    INFO     params [47.20798848]
+2022-01-24 14:33:14,042 mloop.controllers    INFO     cost -1.3390568517909958 +/- 0.0
+2022-01-24 14:33:14,042 mloop.controllers    INFO     Run:24 (machine learner)
+2022-01-24 14:33:14,043 mloop.controllers    INFO     params [47.2324296]
+2022-01-24 14:33:25,917 mloop.controllers    INFO     cost -1.3413787536325477 +/- 0.0
+2022-01-24 14:33:25,917 mloop.controllers    INFO     Run:25 (machine learner)
+2022-01-24 14:33:25,918 mloop.controllers    INFO     params [47.1692108]
+2022-01-24 14:33:37,321 mloop.controllers    INFO     cost -1.3095716198125837 +/- 0.0
+2022-01-24 14:33:37,322 mloop.controllers    INFO     Run:26 (trainer)
+2022-01-24 14:33:37,324 mloop.controllers    INFO     params [43.29808864]
+2022-01-24 14:33:48,737 mloop.controllers    INFO     cost -1.1819535191464725 +/- 0.0
+2022-01-24 14:33:48,738 mloop.controllers    INFO     Run:27 (machine learner)
+2022-01-24 14:33:48,738 mloop.controllers    INFO     params [47.16508449]
+2022-01-24 14:33:58,106 mloop.controllers    INFO     cost -1.3251028806584362 +/- 0.0
+2022-01-24 14:33:58,107 mloop.controllers    INFO     Run:28 (machine learner)
+2022-01-24 14:33:58,108 mloop.controllers    INFO     params [47.17690616]
+2022-01-24 14:34:09,651 mloop.controllers    INFO     cost -1.3931822084835994 +/- 0.0
+2022-01-24 14:34:09,652 mloop.controllers    INFO     Run:29 (machine learner)
+2022-01-24 14:34:09,653 mloop.controllers    INFO     params [47.19144543]
+2022-01-24 14:34:23,088 mloop.controllers    INFO     cost -1.3978817446418148 +/- 0.0
+2022-01-24 14:34:23,089 mloop.controllers    INFO     Run:30 (machine learner)
+2022-01-24 14:34:23,090 mloop.controllers    INFO     params [47.15527222]
+2022-01-24 14:34:39,194 mloop.controllers    INFO     cost -1.3677868295994569 +/- 0.0
+2022-01-24 14:34:39,195 mloop.controllers    INFO     Run:31 (trainer)
+2022-01-24 14:34:39,197 mloop.controllers    INFO     params [49.55527832]
+2022-01-24 14:37:58,120 mloop.controllers    WARNING  Controller ended due to exception of some kind. Starting shut down...
+2022-01-24 14:37:58,120 mloop.controllers    DEBUG    ML learner end set.

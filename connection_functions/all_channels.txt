@@ -1,0 +1,48 @@
+AO	
+
+2	Wide Range Camera Trigger
+3	1:1 Camera Trigger
+4 Extra Rabi coil offset
+
+
+AO Ramp	
+1      	bias field x
+2      	bias field y
+3      	bias field z
+5      	Coil Current
+7 Extra Rabi coil
+9 
+10 SRS FM input
+11 MOT Voltage Setting - DO NOT USE
+13 TransverseLattice AOMPower
+14
+15
+DO	
+0 Only for Global Clock for AO
+1	Blue MOT AOM & shutter
+6	TOF AOM
+7 TOF Shutter
+9 Red AOM Crosstalk8
+11 Trigger for Comtec P7888 start - DO NOT USE
+13 Shutter for MPPC protection (0 = open, 1 = closed)
+14 Switch for Phase Reference
+15 Flushing channel for P7888 - DO NOT USE
+17 Probe Power Lock (1=off)
+18 AI Trigger - DO NOT CHANGE CHANNEL
+19 ANDOR CAMERA TRIGGER
+20 Science Cavity LockBox Hold
+21 PhotonCountingFPGA - DO NOT USE
+22 TransverseLattice AOM
+24 Cooling AOM
+26 Yellow Probe1 AOM
+27 Yellow Probe1 Shutter (0 = open, 1 = closed)
+28 ClockPolarization (0=Pi, 1=Sigma)
+29 ProbeEOMPowerSelect (0=VCO 1=SRS)
+30 RamanCoolingBeamEOMSwitch
+31 1389AOM
+ValueControl
+0 YellowFreqOffset
+1 FPGADDS9Ch
+2 FPGADDS9Func (0=Freq, 1= Phase, 2= Amp)
+3 FPGADDS9Data
+4 FPGADDS9RampRate
